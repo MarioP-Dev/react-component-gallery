@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//mariop-dev.github.io/react-component-gallery/static/css/main.073c9b0a.css",
+    "main.js": "//mariop-dev.github.io/react-component-gallery/static/js/main.ab756f5b.js",
+    "static/js/787.300e4d93.chunk.js": "//mariop-dev.github.io/react-component-gallery/static/js/787.300e4d93.chunk.js",
+    "index.html": "//mariop-dev.github.io/react-component-gallery/index.html",
+    "main.073c9b0a.css.map": "//mariop-dev.github.io/react-component-gallery/static/css/main.073c9b0a.css.map",
+    "main.ab756f5b.js.map": "//mariop-dev.github.io/react-component-gallery/static/js/main.ab756f5b.js.map",
+    "787.300e4d93.chunk.js.map": "//mariop-dev.github.io/react-component-gallery/static/js/787.300e4d93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ab756f5b.js"
+  ]
+}
